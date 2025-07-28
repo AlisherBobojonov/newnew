@@ -111,3 +111,6 @@ hover: nav a {
   p{
     color: rgb(0, 165, 0);
   }
+header a:hover {
+    color: rgb(12, 195, 134);
+}
