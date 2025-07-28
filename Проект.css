@@ -32,13 +32,16 @@
     list-style: none;
     gap: 20px;
     margin-top: 10px;
-  }
+ }
   
   nav a {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
   }
+hover: nav a {
+    color: green;
+}
   
   .banner {
     background: #ffdd00;
